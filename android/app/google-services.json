@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "585446331375",
+    "project_id": "weassist-3b802",
+    "storage_bucket": "weassist-3b802.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585446331375:android:5793eb30000b5517305c1a",
+        "android_client_info": {
+          "package_name": "com.example.finalmap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "585446331375-p4hgd7loh1aca0mjkjbrauvb5f8dverh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3MOYpyExdYyNpVylx31nRSbmJ5NZk6Zc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "585446331375-p4hgd7loh1aca0mjkjbrauvb5f8dverh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
